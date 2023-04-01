@@ -26,6 +26,87 @@ The `known_hosts` file lets the client authenticate the server, to check that it
 
 ---
 
+<details>
+
+  <summary> 2. Location of Ansible Configuration Settings ? </summary>
+
+  <p>
+
+Changes can be made and used in a configuration file which will be searched for in the following order:
+
+- `ANSIBLE_CONFIG` - environment variable if set (Highest priority)
+- `ansible.cfg` - in the current directory
+- `~/.ansible.cfg` - in the home directory
+- `/etc/ansible/ansible.cfg` (Lowest priority)
+
+Reference:
+
+- https://docs.ansible.com/ansible/latest/reference_appendices/config.html#ansible-configuration-settings
+
+</p>
+
+</details>
+
+---
+
+<details>
+
+  <summary>  </summary>
+
+  <p>
+
+  </p>
+
+</details>
+
+---
+
+<details>
+
+  <summary>  </summary>
+
+  <p>
+
+  </p>
+
+</details>
+
+---
+
+<details>
+
+  <summary>  </summary>
+
+  <p>
+
+  </p>
+
+</details>
+
+---
+
+<details>
+
+  <summary>  </summary>
+
+  <p>
+
+  </p>
+
+</details>
+
+---
+
+<details>
+
+  <summary>  </summary>
+
+  <p>
+
+  </p>
+
+</details>
+
 ---
 
 ### Resources
